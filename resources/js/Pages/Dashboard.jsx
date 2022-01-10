@@ -5,8 +5,7 @@ import Authorized from "../Layout/Authorized";
 // import { Head } from "@inertiajs/inertia-react";
 
 export default function Dashboard() {
-    // const { flash } = usePage().props;
-    // flash.type && toast[flash.type](flash.message);
+
     return (
         <div className="p-10">
             {/* <Toaster /> */}
